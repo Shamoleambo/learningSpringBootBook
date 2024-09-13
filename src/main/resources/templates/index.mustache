@@ -4,4 +4,8 @@
 	{{#videos}}
 		<li>{{name}}</li>
 	{{/videos}}
+	<form action="/new-video" method="post">
+		<input type="text" name="name">
+		<button type="submit">Submit</button>
+	</form>
 </ul>
