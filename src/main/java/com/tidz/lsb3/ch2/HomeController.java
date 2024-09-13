@@ -15,6 +15,11 @@ public class HomeController {
 		this.videoService = videoService;
 	}
 
+	@GetMapping("/react")
+	public String react() {
+		return "react";
+	}
+
 	@GetMapping("/")
 	public String index(Model model) {
 		model.addAttribute("videos", videoService.getVideos());

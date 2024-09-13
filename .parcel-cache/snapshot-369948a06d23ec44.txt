@@ -1,4 +1,4 @@
-8362
+8364
 37/home/tidz/sts-workspace/ch2/mvnw.cmd1726225940000000000 0
 66/home/tidz/sts-workspace/ch2/target/test-classes/com/tidz/lsb3/ch21726251769088595011 1
 52/home/tidz/sts-workspace/ch2/target/test-classes/com1726251769074595396 1
@@ -9,9 +9,10 @@
 64/home/tidz/sts-workspace/ch2/target/classes/META-INF/MANIFEST.MF1726251771138538614 0
 52/home/tidz/sts-workspace/ch2/target/classes/META-INF1726251771138538614 1
 68/home/tidz/sts-workspace/ch2/target/classes/templates/index.mustache1726251771133538752 0
+68/home/tidz/sts-workspace/ch2/target/classes/templates/react.mustache1726253230280015229 0
 80/home/tidz/sts-workspace/ch2/target/classes/com/tidz/lsb3/ch2/VideoService.class1726251769073595423 0
 81/home/tidz/sts-workspace/ch2/target/classes/com/tidz/lsb3/ch2/ApiController.class1726251769060595781 0
-82/home/tidz/sts-workspace/ch2/target/classes/com/tidz/lsb3/ch2/HomeController.class1726251769066595616 0
+82/home/tidz/sts-workspace/ch2/target/classes/com/tidz/lsb3/ch2/HomeController.class1726253270065567232 0
 61/home/tidz/sts-workspace/ch2/target/classes/com/tidz/lsb3/ch21726251769073595423 1
 52/home/tidz/sts-workspace/ch2/target/classes/com/tidz1726251769045596193 1
 43/home/tidz/sts-workspace/ch2/target/classes1726251899308480681 1
@@ -490,7 +491,7 @@
 67/home/tidz/sts-workspace/ch2/node_modules/@parcel/namer-default/lib1726238641412789571 1
 69/home/tidz/sts-workspace/ch2/node_modules/@parcel/logger/package.json1726238642330756960 0
 69/home/tidz/sts-workspace/ch2/node_modules/@parcel/transformer-raw/src1726238639919843075 1
-53/home/tidz/sts-workspace/ch2/target/classes/templates1726251771133538752 1
+53/home/tidz/sts-workspace/ch2/target/classes/templates1726253230280015229 1
 64/home/tidz/sts-workspace/ch2/node_modules/@parcel/plugin/LICENSE1726238637307938229 0
 73/home/tidz/sts-workspace/ch2/node_modules/@parcel/plugin/lib/PluginAPI.js1726238637308938193 0
 75/home/tidz/sts-workspace/ch2/node_modules/@parcel/plugin/src/PluginAPI.d.ts1726238637308938193 0
@@ -2022,6 +2023,7 @@
 70/home/tidz/sts-workspace/ch2/node_modules/css-tree/cjs/lexer/match.cjs1726238635281013384 0
 92/home/tidz/sts-workspace/ch2/node_modules/caniuse-lite/data/features/css-element-function.js1726238635327011668 0
 70/home/tidz/sts-workspace/ch2/node_modules/css-tree/cjs/lexer/index.cjs1726238635268013869 0
+70/home/tidz/sts-workspace/ch2/node_modules/css-tree/cjs/lexer/Lexer.cjs1726238635277013533 0
 70/home/tidz/sts-workspace/ch2/src/main/resources/javascript/NewVideo.js1726253082153298736 0
 78/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/src/_inherits_loose.mjs1726238635669998873 0
 82/home/tidz/sts-workspace/ch2/node_modules/react-dom/cjs/react-dom.profiling.min.js1726251820774137197 0
@@ -2069,7 +2071,7 @@
 62/home/tidz/sts-workspace/ch2/node_modules/is-arrayish/index.js1726238635084020732 0
 90/home/tidz/sts-workspace/ch2/node_modules/css-select/lib/esm/pseudo-selectors/index.js.map1726238635232015211 0
 98/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/LICENSE1726238635063021516 0
-59/home/tidz/sts-workspace/ch2/node_modules/@msgpackr-extract1726253082804303561 1
+59/home/tidz/sts-workspace/ch2/node_modules/@msgpackr-extract1726253270566560808 1
 74/home/tidz/sts-workspace/ch2/node_modules/node-gyp-build-optional-packages1726238635100020136 1
 70/home/tidz/sts-workspace/ch2/node/node_modules/npm/man/man1/npm-repo.11726238122354034000 0
 81/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/ci-detect1726238122478000000 1
@@ -2176,7 +2178,7 @@
 97/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax1726238635298012749 1
 87/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/content/commands/npm-restart.md1726238122306039000 0
 84/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/content/commands/npm-test.md1726238122308039000 0
-66/home/tidz/sts-workspace/ch2/target/classes/javascript/NewVideo.js1726253073901231894 0
+66/home/tidz/sts-workspace/ch2/target/classes/javascript/NewVideo.js1726253084292314351 0
 99/home/tidz/sts-workspace/ch2/node_modules/csso/node_modules/css-tree/lib/definition-syntax/parse.js1726238641919771511 0
 75/home/tidz/sts-workspace/ch2/node/node_modules/npm/man/man1/npm-unpublish.11726238122354034000 0
 71/home/tidz/sts-workspace/ch2/node_modules/domhandler/lib/index.d.ts.map1726238635103020024 0
@@ -2371,7 +2373,7 @@
 81/home/tidz/sts-workspace/ch2/node_modules/@parcel/watcher-linux-x64-glibc/LICENSE1726238636028985489 0
 82/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/run-script1726238122491000000 1
 80/home/tidz/sts-workspace/ch2/node_modules/csso/cjs/restructure/prepare/index.cjs1726238635190016778 0
-54/home/tidz/sts-workspace/ch2/target/classes/javascript1726253073901231894 1
+54/home/tidz/sts-workspace/ch2/target/classes/javascript1726253084292314351 1
 86/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/map-workspaces1726238122487000000 1
 94/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/fs/lib/common/owner.js1726238122482018000 0
 93/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/fs/lib/common/node.js1726238122482018000 0
@@ -2418,7 +2420,6 @@
 95/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/arborist/bin/license.js1726238122469020000 0
 84/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/arborist/bin1726238122470000000 1
 83/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/npm-bundled/LICENSE1726238122530013000 0
-65/home/tidz/sts-workspace/ch2/src/main/resources/javascript/App.js1726252316263756017 0
 95/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/arborist/lib/signals.js1726238122474019000 0
 72/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/output/using-npm1726238122329000000 1
 82/home/tidz/sts-workspace/ch2/node_modules/@lmdb/lmdb-linux-x64/node.napi.musl.node1726238638915879418 0
@@ -2845,7 +2846,7 @@
 87/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/color-support/README.md1726238122412027000 0
 102/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/content/configuring-npm/npm-shrinkwrap-json.md1726238122301040000 0
 103/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/depd/lib/compat/event-listener-count.js1726238122448022000 0
-47/home/tidz/sts-workspace/ch2/node_modules/@lmdb1726253082804303561 1
+47/home/tidz/sts-workspace/ch2/node_modules/@lmdb1726253270566560808 1
 88/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/depd/lib/compat/index.js1726238122448022000 0
 81/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/tar/lib/create.js1726238122579007000 0
 68/home/tidz/sts-workspace/ch2/node_modules/css-tree/lib/syntax/atrule1726238635362010362 1
@@ -3006,7 +3007,7 @@
 86/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/function-bind/index.js1726238122416026000 0
 90/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/function-bind/package.json1726238122417026000 0
 84/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/content/commands/npm-team.md1726238122308039000 0
-46/home/tidz/sts-workspace/ch2/package-lock.json1726253082828303739 0
+46/home/tidz/sts-workspace/ch2/package-lock.json1726253270594560449 0
 79/home/tidz/sts-workspace/ch2/node_modules/cosmiconfig/dist/getPropertyByPath.js1726238635115019576 0
 117/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/atrule/index.js1726238635293012936 0
 87/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/cjs/_class_private_field_set.cjs1726238635637000104 0
@@ -4072,6 +4073,7 @@
 89/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/minipass-collect/index.js1726238122496017000 0
 96/home/tidz/sts-workspace/ch2/node_modules/csso/node_modules/css-tree/lib/syntax/config/parser.js1726238641925771297 0
 84/home/tidz/sts-workspace/ch2/node_modules/css-select/lib/pseudo-selectors/index.d.ts1726238635266013943 0
+72/home/tidz/sts-workspace/ch2/src/main/resources/templates/react.mustache1726253228075036302 0
 87/home/tidz/sts-workspace/ch2/node/node_modules/npm/docs/output/commands/npm-logout.html1726238122316038000 0
 75/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/ini/LICENSE1726238122439024000 0
 112/home/tidz/sts-workspace/ch2/node_modules/css-select/node_modules/entities/lib/esm/generated/decode-data-html.js1726238635113019651 0
@@ -5044,7 +5046,7 @@
 71/home/tidz/sts-workspace/ch2/node_modules/css-tree/cjs/walker/index.cjs1726238635276013570 0
 91/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/cjs/_check_private_redeclaration.cjs1726238635630000365 0
 101/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/socks/typings/client/socksclient.d.ts1726238122571008000 0
-60/home/tidz/sts-workspace/ch2/node_modules/.package-lock.json1726253082835303791 0
+60/home/tidz/sts-workspace/ch2/node_modules/.package-lock.json1726253270603560333 0
 88/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/socks/build/index.js.map1726238122568008000 0
 80/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/cjs/_array_with_holes.cjs1726238635628000439 0
 86/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/libnpmorg/lib/index.js1726238122461021000 0
@@ -5660,6 +5662,7 @@
 71/home/tidz/sts-workspace/ch2/node_modules/css-select/lib/esm/general.js1726238635153018158 0
 95/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/tiny-relative-date/src/index.js1726238122584006000 0
 91/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/cjs/_is_native_reflect_construct.cjs1726238635649999619 0
+65/home/tidz/sts-workspace/ch2/src/main/resources/javascript/App.js1726252316263756017 0
 54/home/tidz/sts-workspace/ch2/src/main/resources/static1726225940000000000 1
 107/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/Dimension.js1726238635230015286 0
 88/home/tidz/sts-workspace/ch2/node_modules/csso/node_modules/css-tree/lib/syntax/function1726238641930771119 1
@@ -5670,14 +5673,14 @@
 99/home/tidz/sts-workspace/ch2/node_modules/csso/node_modules/css-tree/cjs/generator/token-before.cjs1726238641799775786 0
 110/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/index.js1726238635293012936 0
 67/home/tidz/sts-workspace/ch2/node/node_modules/npm/man/man5/npmrc.51726238122359033000 0
-80/home/tidz/sts-workspace/ch2/src/main/java/com/tidz/lsb3/ch2/HomeController.java1726235378085731959 0
+80/home/tidz/sts-workspace/ch2/src/main/java/com/tidz/lsb3/ch2/HomeController.java1726253269882569569 0
 82/home/tidz/sts-workspace/ch2/node_modules/@parcel/graph/test/AdjacencyList.test.js1726238637755921773 0
 72/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/cjs/_defaults.cjs1726238635642999880 0
 85/home/tidz/sts-workspace/ch2/src/main/java/com/tidz/lsb3/ch2/Chapter2Application.java1726225940000000000 0
 112/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/common/TokenStream.js1726238635332011481 0
 66/home/tidz/sts-workspace/ch2/node_modules/is-arrayish/package.json1726238635056021777 0
 71/home/tidz/sts-workspace/ch2/src/main/java/com/tidz/lsb3/ch2/Video.java1726234574998960852 0
-41/home/tidz/sts-workspace/ch2/node_modules1726253082803303554 1
+41/home/tidz/sts-workspace/ch2/node_modules1726253270565560821 1
 95/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/arborist/lib/tracker.js1726238122476019000 0
 60/home/tidz/sts-workspace/ch2/node_modules/chalk/package.json1726238635100020136 0
 74/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/ini/ini.js1726238122439024000 0
@@ -6279,7 +6282,7 @@
 94/home/tidz/sts-workspace/ch2/node_modules/react-refresh/cjs/react-refresh-babel.development.js1726238635379009728 0
 90/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/gauge/lib/set-immediate.js1726238122418026000 0
 64/home/tidz/sts-workspace/ch2/node_modules/react-refresh/babel.js1726238635378009765 0
-49/home/tidz/sts-workspace/ch2/node_modules/@parcel1726253082804303561 1
+49/home/tidz/sts-workspace/ch2/node_modules/@parcel1726253270565560821 1
 95/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/npm-install-checks/package.json1726238122531013000 0
 101/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor1726238635605001297 1
 73/home/tidz/sts-workspace/ch2/node_modules/css-select/lib/esm/types.js.map1726238635250014540 0
@@ -6345,7 +6348,7 @@
 131/home/tidz/sts-workspace/ch2/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/PseudoElementSelector.js1726238635321011891 0
 59/home/tidz/sts-workspace/ch2/node_modules/commander/esm.mjs1726238635127019128 0
 84/home/tidz/sts-workspace/ch2/node_modules/@babel/helper-validator-identifier/scripts1726238635127019128 1
-57/home/tidz/sts-workspace/ch2/src/main/resources/templates1726227091312887251 1
+57/home/tidz/sts-workspace/ch2/src/main/resources/templates1726253174435410873 1
 101/home/tidz/sts-workspace/ch2/node/node_modules/npm/node_modules/@npmcli/disparity-colors/package.json1726238122481019000 0
 72/home/tidz/sts-workspace/ch2/node_modules/commander/package-support.json1726238635100020136 0
 84/home/tidz/sts-workspace/ch2/node_modules/@lmdb/lmdb-linux-x64/node.abi93.glibc.node1726238636395971903 0
@@ -6715,7 +6718,7 @@
 67/home/tidz/sts-workspace/ch2/node_modules/@parcel/watcher/README.md1726238635758995553 0
 80/home/tidz/sts-workspace/ch2/node_modules/json-parse-even-better-errors/index.js1726238635056021777 0
 46/home/tidz/sts-workspace/ch2/node_modules/csso1726238635302012600 1
-46/home/tidz/sts-workspace/ch2/node_modules/@swc1726253082803303554 1
+46/home/tidz/sts-workspace/ch2/node_modules/@swc1726253270565560821 1
 59/home/tidz/sts-workspace/ch2/node_modules/csso/package.json1726238635302012600 0
 56/home/tidz/sts-workspace/ch2/node_modules/csso/README.md1726238635303012563 0
 99/home/tidz/sts-workspace/ch2/node_modules/@parcel/runtime-js/lib/helpers/browser/import-polyfill.js1726238640974805181 0
@@ -7561,7 +7564,6 @@
 71/home/tidz/sts-workspace/ch2/node_modules/@swc/helpers/esm/_decorate.js1726238635658999283 0
 63/home/tidz/sts-workspace/ch2/node_modules/msgpackr/iterators.js1726238636154980824 0
 78/home/tidz/sts-workspace/ch2/node_modules/svgo/plugins/removeElementsByAttr.js1726238635330011556 0
-70/home/tidz/sts-workspace/ch2/node_modules/css-tree/cjs/lexer/Lexer.cjs1726238635277013533 0
 58/home/tidz/sts-workspace/ch2/node_modules/domutils/LICENSE1726238635056021777 0
 71/home/tidz/sts-workspace/ch2/node_modules/cosmiconfig/dist/types.js.map1726238635189016816 0
 67/home/tidz/sts-workspace/ch2/node_modules/@parcel/core/lib/utils.js1726238643807704966 0
